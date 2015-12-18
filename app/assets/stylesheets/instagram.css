@@ -1,8 +1,14 @@
-#instagram {
-  text-align: center;
-  margin-top: 200px;
-}
-
-#container {
-  text-align: center;
+ /* Small Devices */
+@media(max-width:767px){}
+/* Tablet Devices and Up */
+@media(min-width:768px){}
+/* Medium Devices */
+@media(min-width:992px){}
+/* Desktop & Laptop */
+@media(min-width:1200px){
+ #center {
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 180px;
+  }
 }
